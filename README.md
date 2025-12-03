@@ -4,11 +4,18 @@
 
 ## About this project
 
-Homebrew formulae for installing SAP Cloud Application Programming Model (CAP) command-line tools and development utilities.
+This repository hosts a [Homebrew Tap](https://docs.brew.sh/Taps) for installing CAP-related tools via [Homebrew](https://brew.sh/).
+
+This tap includes:
+- [CAP Console](https://cap.cloud.sap/docs/tools/console)
 
 ## Requirements and Setup
 
-*Insert a short description what is required to get your project running...*
+To add this tap to your Homebrew installation, run the following command:
+
+```bash
+brew tap capire/tap
+```
 
 ## Support, Feedback, Contributing
 
