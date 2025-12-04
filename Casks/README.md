@@ -2,9 +2,9 @@
 
 ### Install
 
-`brew tap capire`
+`brew tap capire/tap`
 
-`brew install --cask cap-console`
+`brew install cap-console`
 
 ### Uninstall
 
@@ -12,4 +12,4 @@
 
 Delete everything, including user data: `brew uninstall cap-console --zap`
 
-`brew untap capire`
+`brew untap capire/tap`
