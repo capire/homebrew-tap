@@ -2,9 +2,9 @@ cask "cap-console" do
   arch arm: "arm64", intel: "x64"
   os macos: "darwin"
 
-  version "1.2.1"
-  sha256 arm:          "0009f43082c9c243ed80fec0cf41c8bd8442a817d36e58265888821eb4644c1a",
-         intel:        "373b232c5ed500d81e7b6277528b212355056e7777234113fc55abba4c3dae90"
+  version "1.2.2"
+  sha256 arm:          "50988d97688c4affef784c103d308c12387a7f24fafd36c10810b5f46c495cbd",
+         intel:        "5466365c79e576f7b0744dcc6e0a8191f3189f3c5924ea6fd1d5209d6e98d206"
 
   url "https://cap-console-updater.cfapps.eu10-005.hana.ondemand.com/#{arch}-cap-console.dmg",
     verified: "cap-console-updater.cfapps.eu10-005.hana.ondemand.com"
